@@ -1,0 +1,17 @@
+{
+    "Name": "Voluntary Task Switching Reward",
+    "BIDSVersion": "1.1.1",
+    "Authors": [
+        "Joseph M. Orr",
+        "Marie T. Banich"
+    ],
+    "License": "This data is made available under the Creative Commons BY-SA 4.0 International License.",
+    "ReferencesAndLinks": [
+        "Pending"
+    ],
+    "HowToAcknowledge": "Please cite this paper: TBD",
+    "Funding": [
+        "National Institute of Mental Health grant P50-079485",
+        "National Institute on Drug Abuse Grant F32DA034412"
+    ]
+}
